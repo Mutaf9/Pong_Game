@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Runtime.InteropServices;
-// hersey tamam sadece skor hatasi duzeltilicek ve baslma ekrani eklenicek
+
 namespace PongGame
 {
     public partial class Form1 : Form
